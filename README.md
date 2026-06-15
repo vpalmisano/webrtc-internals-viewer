@@ -2,6 +2,8 @@
 
 A viewer for `webrtc_internals_dump` JSON files exported from `chrome://webrtc-internals`.
 
+https://vpalmisano.github.io/webrtc-internals-viewer/
+
 ## Development
 
 ```bash
