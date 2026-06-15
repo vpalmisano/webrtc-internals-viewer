@@ -1,6 +1,6 @@
 # WebRTC Internals Viewer
 
-Vue 3 + Vuetify viewer for `webrtc_internals_dump` JSON files exported from `chrome://webrtc-internals`.
+A viewer for `webrtc_internals_dump` JSON files exported from `chrome://webrtc-internals`.
 
 ## Development
 
